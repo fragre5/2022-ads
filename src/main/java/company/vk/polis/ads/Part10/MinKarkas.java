@@ -2,6 +2,8 @@ package company.vk.polis.ads;
 
 import java.util.*;
 
+//Done -> https://www.eolymp.com/ru/submissions/12385761
+
 public class MinKarkas {
 
     private static int findCur(int x, int[] array) {
